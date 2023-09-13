@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YSvCuYhfINarV4YQW9aGQCTvlV6I47/Umgl2rXoN+bQ=",
+  "Source": "LojaServer",
+  "BasePath": "_content/LojaServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
